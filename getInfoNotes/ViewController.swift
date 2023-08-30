@@ -8,7 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    var test = 7
+    
     @IBOutlet weak var ageOutlet: UITextField!
     @IBOutlet weak var textField: UITextField!
     
